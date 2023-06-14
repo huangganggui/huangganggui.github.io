@@ -9,7 +9,6 @@
     "server": "hexo server",
     "test": "hexo clean && hexo generate && hexo server",
     "publish": "hexo clean && hexo generate && hexo deploy"
-
   },
   "hexo": {
     "version": "6.3.0"
